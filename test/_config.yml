@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -85,7 +85,7 @@ author:
   name             : "Your Name"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Tokyo. Japan"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
