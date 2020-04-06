@@ -1,39 +1,32 @@
 # main links
 main:
-  # - title: "categories"
-    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "categories"
-    url: /categories
-  - title: "tags"
-    url: /tags
+  - title: "study"
+    url: /study
+  - title: "thinks"
+    url: /thinks
   - title: "me"
     url: /me
-  - title: "histories"
-    url: /histories
-  - title: "collection"
-    url: /collection
+  # - title: "histories"
+    # url: /histories
 
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+memorior_one:
+  - title: Intro
+    url: '/memorior_one/intro'
 
-  - title: Customization
+sidebar-me:
+  - title: Index
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: Introduce
+        url: /me/introduce
+      - title: Personal Info
+        url: /me/personal_info
+      - title: Experiences
+        url: /me/experiences
+      - title: Activities
+        url: /me/activities
+
+sidebar-study:
+  - title: Index
+    children:
+      - title: RubyOnRails
+        url: /study/ror
